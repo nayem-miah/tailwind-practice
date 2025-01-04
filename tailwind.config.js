@@ -4,6 +4,7 @@ module.exports = {
     './index1.html', // Include any other relevant files
     './index.html', // Include any other relevant files
     './index2.html', // Include any other relevant files
+    './index3.html', // Include any other relevant files
   ],
   theme: {
     extend: {
